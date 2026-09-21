@@ -17,7 +17,7 @@ require_once __DIR__ . "/handlers/delete.php";
 </head>
 
 <body>
-    <h1>Seznam jmen:</h1>
+    <h1>List of names:</h1>
     <div>
         <h2>Add new person:</h2>
         <form method="post">
